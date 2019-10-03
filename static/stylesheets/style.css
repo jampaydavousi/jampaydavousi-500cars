@@ -1,0 +1,65 @@
+/* giving the body a dark background to better see the bright colored boxes */
+body {
+  background: repeating-linear-gradient( -45deg, rgb(204, 204, 204) 0px, rgb(204, 204, 204) 5px, rgb(212, 211, 211) 6px, rgb(212, 211, 211) 11px, rgb(204, 204, 204) 12px);;
+}
+
+.navbar {
+  background-color:  rgba(54, 98, 156, 0.904) !important;
+}
+
+.nav-link {
+  color:  rgb(255, 255, 255) !important;
+}
+
+.navbar-brand {
+  background-color: rgba(54, 98, 156, 0.904);
+  font-size: 100px;
+  padding: 15px 15px;
+  margin-left: 75px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Nav element hover state */
+.dropdown-menu > a:hover {
+  background-color: #f8df51 !important;
+}
+
+.navbar-brand {
+  background-color: transparent;
+  font-size: 50px;
+	font-weight: 700;
+  line-height: 0px;
+  text-emphasis: white;
+}
+
+.card {
+  /* background-color: rgba(54, 98, 156, 0.904); */
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 30px;
+  border: 2px solid rgba(54, 98, 156, 0.904) !important;
+  border-radius: 10px
+}
+
+.card-title {
+  color: rgba(54, 98, 156, 0.904); 
+  font-size: 30px;
+}
+
+.figure-title{
+  color: rgba(54, 98, 156, 0.904); 
+  font-size: 20px;
+  text-align: center;
+}
+
+.info {
+  background-color: rgba(54, 98, 156, 0.904);
+  font-size: 12px;
+}
+
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
