@@ -1,4 +1,4 @@
-# Automaobile Price Depreciation
+# Used Car Price Depreciation
 
 This web service provides an interactive user interface for used car shoppers to see visialization of how 500+ used cars from 6 different makes from 2014 have made maintained their original value.
 
